@@ -1,4 +1,7 @@
-# api-rest-node-js
+API REST
+
+Linguagem: nodeJS
+Banco de dados: MongoBD
 
 
 
