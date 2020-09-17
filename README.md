@@ -1,12 +1,12 @@
-API REST
+# API REST
 
-Linguagem: nodeJS </br>
-Banco de dados: MongoBD
-
-
+##### *Linguagem: nodeJS* </br>
+##### *Banco de dados: MongoBD*
 
 
-# :desktop_computer: Dependências instaladas na API REST
+
+
+## :desktop_computer: Dependências instaladas na API REST
     cors: 2.8.5
     express: 4.17.1
     mongoose: 5.10.3
