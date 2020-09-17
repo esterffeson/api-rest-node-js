@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(cors());
 
 // iniciando o Banco de dados
-mongoose.connect('mongodb+srv://magrinn:magrinn@node-api.uicbq.mongodb.net/node-api?retryWrites=true&w=majority', 
+mongoose.connect('mongodb+srv://user:pass@node-api.uicbq.mongodb.net/node-api?retryWrites=true&w=majority', 
     { useNewUrlParser: true}
 );
 
